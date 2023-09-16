@@ -4,7 +4,7 @@ import '../constants/app_colors.dart';
 class AppTextStyles {
   static const String fontFamily = 'Roboto';
   static const normalText = TextStyle(
-    fontSize: 16.0,
+    fontSize: 12.0,
     fontWeight: FontWeight.w400,
     color: AppColors.kDark,
     fontFamily: fontFamily
